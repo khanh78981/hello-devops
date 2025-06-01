@@ -29,3 +29,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: khanh78981/hello-devops:latest
+
